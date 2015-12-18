@@ -12,6 +12,7 @@
  * 
  */
 int main(int argc, char** argv) {
+    printf("Test");
     printf("Hello");
     printf("QINCY \"THE\" KILLER");
     return (EXIT_SUCCESS);
